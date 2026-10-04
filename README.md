@@ -12,9 +12,9 @@ The project transforms a traditional school homepage into a modern digital exper
 
 ## ✨ Live Experience
 
-**Live Demo:** *Add the Vercel URL after deployment*
+**Live Demo:** https://tulas-international-school-homepage-delta.vercel.app/
 
-**GitHub Repository:** *Add repository URL after publishing*
+**GitHub Repository:** https://github.com/RohitKr-codes/tulas-international-school-homepage
 
 ---
 
